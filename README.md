@@ -2,4 +2,4 @@
 
 Hello, there!
 I'm looking for knowledge, so I decided to learn programming.
-Hope to a good one soon.
+Hope to be a good one soon.
